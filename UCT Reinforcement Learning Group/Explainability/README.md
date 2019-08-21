@@ -1,0 +1,1 @@
+This directory contains the contents of a presentation given to a research group on reinforcement learning of students and prefessionals on Model Agnostic Explainability given on the 26 August 2019 by Marcus Gawronsky.  
