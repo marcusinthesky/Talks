@@ -2,7 +2,7 @@
 What i want them to know is there is a lot of resources online and there are practice places like kaggle and zindi which they must use to showcase their skills
 
 --->
-# How Grow 🌲 and Show-off 🥇 as a Data Scientist 👨‍🔬️  
+# How to Grow 🌲 and Show-off 🥇 as a Data Scientist 👨‍🔬️  
 
 ---
 
@@ -35,7 +35,6 @@ Hello `World`
 ---
 
 #  Listen
-
 ![podcasts](Assets/podcasts.png)
 
 
@@ -43,7 +42,6 @@ Hello `World`
 
 # Code
 ![github](Assets/github.png)
-
 
 ---
 
@@ -59,7 +57,6 @@ Hello `World`
 &nbsp; 
 &nbsp; 
 ![](Assets/impact_canvas.png)
-
 
 ---
 
